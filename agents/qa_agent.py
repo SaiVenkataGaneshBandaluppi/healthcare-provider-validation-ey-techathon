@@ -33,7 +33,7 @@ class QAAgent:
             
             if not name_match:
                 qa_results["corrections"].append(f"Name mismatch detected: '{original_name}' vs '{npi_name}'")
-                qa_results["decisions"].append("🔧 SELF-CORRECTION: Flagging name inconsistency")
+                qa_results["decisions"].append("SELF-CORRECTION: Flagging name inconsistency")
             else:
                 qa_results["decisions"].append("Name consistency verified")
         
