@@ -11,9 +11,9 @@ Developed for **EY Techathon 6.0 - Agentic AI Challenge** | Theme: Building Tomo
 
 ## Live Demo
 
-**Streamlit Cloud:** https://healthcare-provider-validation-ey-techathon-v5aqplpqzybqiuvvia.streamlit.app/
+**[Live Demo on Streamlit Cloud](https://healthcare-provider-validation-ey-techathon-v5aqplpqzybqiuvvia.streamlit.app/)**
 
-**GitHub Repository:** https://github.com/SaiVenkataGaneshBandaluppi/healthcare-provider-validation-ey-techathon
+**[View on GitHub](https://github.com/SaiVenkataGaneshBandaluppi/healthcare-provider-validation-ey-techathon)**
 
 ## Overview
 
