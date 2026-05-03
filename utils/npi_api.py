@@ -27,7 +27,7 @@ class NPIValidator:
                 "version": "2.1"
             }
             
-            response = requests.get(self.BASE_URL, params=params, timeout=10)
+            response = requests.get(NPIValidator.BASE_URL, params=params, timeout=10)
             
             if response.status_code == 200:
                 data = response.json()
